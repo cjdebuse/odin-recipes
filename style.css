@@ -1,9 +1,11 @@
-*{
+body {
     font-family: Tahoma, Arial, sans-serif;
 }
 
-.ingredients {
-    background-color: tan;
+.ingredients, .steps {
+    background-color: #e8d5b9;
+    font-family: cursive;
+    font-style: italic;
 }
 
 .title-area img {
