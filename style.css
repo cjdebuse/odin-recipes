@@ -1,3 +1,12 @@
 *{
     font-family: Tahoma, Arial, sans-serif;
 }
+
+.ingredients {
+    background-color: tan;
+}
+
+.title-area img {
+    height: auto;
+    width: 500px;
+}
